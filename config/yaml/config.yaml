@@ -1,0 +1,6 @@
+apollo:
+  metaaddr: "apollo host"
+  cluster: "default"
+  appid: "apollo appid"
+  namespace: "application"
+  cachedir: "/tmp/agollo"
